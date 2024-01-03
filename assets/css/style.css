@@ -141,3 +141,27 @@ body {
 }
 
 /*---Fim course-content---*/
+
+/*---Inicio transform-world---*/
+
+#transform-world {
+    height: 430px;
+    background-color: #000000;
+    background: url('../images/woman-code.png') lightgray 50% / cover no-repeat;
+    background-attachment: fixed;
+}
+
+#transform-world p{
+    width: 244px;
+    height: 141px;
+    color: #FFF;
+    text-shadow: 3px 2px 0px #33A8DB;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    padding: 120px 12.375rem;
+    text-transform: lowercase;
+}
+
+/*---Fim transform-world---*/
